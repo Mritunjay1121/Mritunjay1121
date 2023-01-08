@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mritunjay</h1>
 <h3 align="center">Follower of Machine Learning</h3>
 
-- 🔭 I’m currently working on **a CI/CD Pipeline **
+- 🔭 I’m currently working on **CI/CD Pipeline**
 
 - 💬 Have Knowledge in **Data Science**
 
