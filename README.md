@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mritunjay</h1>
 <h3 align="center">Follower of Machine Learning</h3>
 
-- 🔭 I’m currently working on **a CI/CD Pipeline project**
+- 🔭 I’m currently working on **a CI/CD Pipeline **
 
-- 💬 Have Knowledge in **Data Science,MATLAB**
+- 💬 Have Knowledge in **Data Science**
 
 - 📝 I’m currently learning **Deep Learning**
-
-- 📝 Some of my abstract articles [https://www.blogger.com/blog/posts/8282622366590967135?hl=en](https://www.blogger.com/blog/posts/8282622366590967135?hl=en)
 
 - 🤝 How to reach me **mritunjay.1121@gmail.com**
 
