@@ -7,7 +7,7 @@
 
 - 📝 I’m currently learning **Deep Learning**
 
-- 🤝 How to reach me **mritunjay.1121@gmail.com**
+- 🤝 To reach me just click [here](mritunjay.1121@gmail.com)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18UuBV6qRj6Y3vNE1nr9xq_br5QLlA8CW/view?usp=share_link](https://drive.google.com/file/d/18UuBV6qRj6Y3vNE1nr9xq_br5QLlA8CW/view?usp=share_link)
 
