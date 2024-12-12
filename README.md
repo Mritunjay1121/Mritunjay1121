@@ -5,9 +5,8 @@
 
 - 💬 Have Knowledge in **Deep Learning**
 
-- 🤝 To reach me just click [here](mritunjay.1121@gmail.com)
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1AB1F1WEHLreFX3KIP4n1yhpEDTN3UdTr/view?usp=share_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1XDWXY62ZKJTddb55mIg-M5B5-7jWPMGb/view?usp=sharing)
 
 - ⚡ Articles in [Medium](https://medium.com/@datascience_sage)
 
