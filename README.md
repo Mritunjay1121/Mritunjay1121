@@ -10,7 +10,7 @@
 
 - ⚡ Articles in [Medium](https://medium.com/@datascience_sage)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My strugglings:</h3>
 <p align="left">
 <a href="https://kaggle.com/mritunjay001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mritunjay001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mritunjay01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mritunjay01" height="30" width="40" /></a>
